@@ -1,7 +1,0 @@
-pymongo
-pluck
-keras
-hyperas
-sklearn
-tabulate
-pyyaml
